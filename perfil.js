@@ -4297,7 +4297,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,128,128);
 		
 		var _btn_home = this;
 		_btn_home.btn_home.on('click', function(){
-		window.open('index.html', '_self');
+		window.open('home.html', '_self');
 		});
 		
 		
@@ -4539,10 +4539,10 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_8858.png?1624505402182", id:"CachedBmp_8858"},
-		{src:"images/CachedBmp_8850.png?1624505402182", id:"CachedBmp_8850"},
-		{src:"images/perfil_atlas_.png?1624505402002", id:"perfil_atlas_"},
-		{src:"images/perfil_atlas_2.png?1624505402006", id:"perfil_atlas_2"}
+		{src:"images/CachedBmp_8858.png?1624566488332", id:"CachedBmp_8858"},
+		{src:"images/CachedBmp_8850.png?1624566488332", id:"CachedBmp_8850"},
+		{src:"images/perfil_atlas_.png?1624566488162", id:"perfil_atlas_"},
+		{src:"images/perfil_atlas_2.png?1624566488166", id:"perfil_atlas_2"}
 	],
 	preloads: []
 };

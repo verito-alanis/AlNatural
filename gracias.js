@@ -4118,7 +4118,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,128,128);
 		
 		var _btn_home = this;
 		_btn_home.btn_home.on('click', function(){
-		window.open('index.html', '_self');
+		window.open('home.html', '_self');
 		});
 		
 		
@@ -4343,11 +4343,11 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_7713.png?1624504872101", id:"CachedBmp_7713"},
-		{src:"images/CachedBmp_7705.png?1624504872101", id:"CachedBmp_7705"},
-		{src:"images/gracias_atlas_.png?1624504871950", id:"gracias_atlas_"},
-		{src:"images/gracias_atlas_2.png?1624504871954", id:"gracias_atlas_2"},
-		{src:"images/gracias_atlas_3.png?1624504871959", id:"gracias_atlas_3"}
+		{src:"images/CachedBmp_7713.png?1624566454300", id:"CachedBmp_7713"},
+		{src:"images/CachedBmp_7705.png?1624566454300", id:"CachedBmp_7705"},
+		{src:"images/gracias_atlas_.png?1624566454123", id:"gracias_atlas_"},
+		{src:"images/gracias_atlas_2.png?1624566454131", id:"gracias_atlas_2"},
+		{src:"images/gracias_atlas_3.png?1624566454132", id:"gracias_atlas_3"}
 	],
 	preloads: []
 };

@@ -4358,7 +4358,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,128,128);
 		
 		var _btn_home = this;
 		_btn_home.btn_home.on('click', function(){
-		window.open('index.html', '_self');
+		window.open('home.html', '_self');
 		});
 		
 		
@@ -4611,10 +4611,10 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_7125.png?1624505614954", id:"CachedBmp_7125"},
-		{src:"images/CachedBmp_7117.png?1624505614954", id:"CachedBmp_7117"},
-		{src:"images/ubicacion_atlas_.png?1624505614786", id:"ubicacion_atlas_"},
-		{src:"images/ubicacion_atlas_2.png?1624505614788", id:"ubicacion_atlas_2"}
+		{src:"images/CachedBmp_7125.png?1624566523941", id:"CachedBmp_7125"},
+		{src:"images/CachedBmp_7117.png?1624566523941", id:"CachedBmp_7117"},
+		{src:"images/ubicacion_atlas_.png?1624566523757", id:"ubicacion_atlas_"},
+		{src:"images/ubicacion_atlas_2.png?1624566523759", id:"ubicacion_atlas_2"}
 	],
 	preloads: []
 };

@@ -5157,7 +5157,7 @@ p.nominalBounds = new cjs.Rectangle(-180.4,-67.8,361.4,135.7);
 		
 		var _btn_home = this;
 		_btn_home.btn_home.on('click', function(){
-		window.open('index.html', '_self');
+		window.open('home.html', '_self');
 		});
 		
 		
@@ -5837,11 +5837,11 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_2379.png?1624505354786", id:"CachedBmp_2379"},
-		{src:"images/CachedBmp_2368.png?1624505354786", id:"CachedBmp_2368"},
-		{src:"images/contacto_atlas_.png?1624505354543", id:"contacto_atlas_"},
-		{src:"images/contacto_atlas_2.png?1624505354544", id:"contacto_atlas_2"},
-		{src:"images/contacto_atlas_3.png?1624505354548", id:"contacto_atlas_3"}
+		{src:"images/CachedBmp_2379.png?1624566479489", id:"CachedBmp_2379"},
+		{src:"images/CachedBmp_2368.png?1624566479489", id:"CachedBmp_2368"},
+		{src:"images/contacto_atlas_.png?1624566479227", id:"contacto_atlas_"},
+		{src:"images/contacto_atlas_2.png?1624566479228", id:"contacto_atlas_2"},
+		{src:"images/contacto_atlas_3.png?1624566479232", id:"contacto_atlas_3"}
 	],
 	preloads: []
 };

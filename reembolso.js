@@ -4050,7 +4050,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,128,128);
 
 
 (lib.mc_menu = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{menu:0});
+	this.initialize(mode,startPosition,loop,{});
 
 	// timeline functions:
 	this.frame_0 = function() {
@@ -4061,7 +4061,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,128,128);
 		
 		var _btn_home = this;
 		_btn_home.btn_home.on('click', function(){
-		window.open('index.html', '_self');
+		window.open('home.html', '_self');
 		});
 		
 		
@@ -4274,10 +4274,10 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_1701.png?1624505289317", id:"CachedBmp_1701"},
-		{src:"images/CachedBmp_1693.png?1624505289317", id:"CachedBmp_1693"},
-		{src:"images/reembolso_atlas_.png?1624505289168", id:"reembolso_atlas_"},
-		{src:"images/reembolso_atlas_2.png?1624505289170", id:"reembolso_atlas_2"}
+		{src:"images/CachedBmp_1701.png?1624566463625", id:"CachedBmp_1701"},
+		{src:"images/CachedBmp_1693.png?1624566463625", id:"CachedBmp_1693"},
+		{src:"images/reembolso_atlas_.png?1624566463481", id:"reembolso_atlas_"},
+		{src:"images/reembolso_atlas_2.png?1624566463484", id:"reembolso_atlas_2"}
 	],
 	preloads: []
 };
