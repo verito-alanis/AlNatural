@@ -21835,7 +21835,9 @@ lib.properties = {
 		{src:"images/index_atlas_11.png?1624566505850", id:"index_atlas_11"},
 		{src:"images/index_atlas_12.png?1624566505857", id:"index_atlas_12"}
 	],
-	preloads: []
+	preloads: [
+		{src="images/_preloader.gif?1624566507871", id:"_preload_div_"}
+	]
 };
 
 
